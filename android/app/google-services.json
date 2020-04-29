@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747171087768",
+    "firebase_url": "https://flutter-trips-avanzado.firebaseio.com",
+    "project_id": "flutter-trips-avanzado",
+    "storage_bucket": "flutter-trips-avanzado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747171087768:android:08695d494ed5f910d417ed",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747171087768-67c3ol2k8ec5trae0eakhnja2vj7ec9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "6a1f13b1e82176c03f9ca69d125fee77bcaaca18"
+          }
+        },
+        {
+          "client_id": "747171087768-f1repbsn461c91eubp8ipb7nao55p0el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21McCu67QbO719xqNZYE2DFFOzD9qZ3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747171087768-f1repbsn461c91eubp8ipb7nao55p0el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
